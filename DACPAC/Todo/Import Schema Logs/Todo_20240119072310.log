@@ -1,0 +1,10 @@
+19-01-2024 12:53:10	This log contains information about the import schema operation into project 'Todo' on computer 'KANINI-LTP-370' by user 'AtheefaGulab'.
+19-01-2024 12:53:10	Deserializing model
+19-01-2024 12:53:10	Resolving model
+19-01-2024 12:53:11	Visiting imported model for types
+19-01-2024 12:53:11	Scanning project for duplicate elements
+19-01-2024 12:53:11	Finished duplicate element processing
+19-01-2024 12:53:11	Processing extra files
+19-01-2024 12:53:11	Finished importing Data-tier Application file.
+19-01-2024 12:53:11	A summary of the import was saved to the following location: C:\Users\AtheefaGulab\source\repos\Todo\Import Schema Logs\Todo_20240119072310.log
+19-01-2024 12:53:11	Click Finish to continue...
