@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "TodoDACPAC", "TodoDACPAC.sqlproj", "{174A0856-269C-44A4-A328-D3728AA67106}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{174A0856-269C-44A4-A328-D3728AA67106}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{174A0856-269C-44A4-A328-D3728AA67106}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{174A0856-269C-44A4-A328-D3728AA67106}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{174A0856-269C-44A4-A328-D3728AA67106}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{174A0856-269C-44A4-A328-D3728AA67106}.Release|Any CPU.Build.0 = Release|Any CPU
+		{174A0856-269C-44A4-A328-D3728AA67106}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71DB5F7C-DD32-43E1-8FCE-406DC0F66839}
+	EndGlobalSection
+EndGlobal
