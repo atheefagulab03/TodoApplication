@@ -1,0 +1,10 @@
+24-01-2024 12:34:23	This log contains information about the import schema operation into project 'TodoDACPAC' on computer 'KANINI-LTP-370' by user 'AtheefaGulab'.
+24-01-2024 12:34:24	Deserializing model
+24-01-2024 12:34:24	Resolving model
+24-01-2024 12:34:24	Visiting imported model for types
+24-01-2024 12:34:24	Scanning project for duplicate elements
+24-01-2024 12:34:24	Finished duplicate element processing
+24-01-2024 12:34:24	Processing extra files
+24-01-2024 12:34:24	Finished importing Data-tier Application file.
+24-01-2024 12:34:24	A summary of the import was saved to the following location: C:\Users\AtheefaGulab\source\repos\TodoDACPAC\Import Schema Logs\TodoDACPAC_20240124070423.log
+24-01-2024 12:34:24	Click Finish to continue...
